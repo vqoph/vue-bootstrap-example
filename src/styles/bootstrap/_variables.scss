@@ -1,0 +1,12 @@
+// import project variables
+@import '../variables';
+
+// Override https://github.com/twbs/bootstrap/blob/v4.3.0/scss/_variables.scss
+
+// apply principles described here https://getbootstrap.com/docs/4.0/getting-started/theming/
+// using variables from '../variables'
+
+$primary: $wd-primary;
+$secondary: $wd-secondary;
+
+// etc...
